@@ -25,7 +25,7 @@ O código é dividido em 4 arquivos para manter a organização e legibilidade.
 
 Para executar o programa é necessário o seguinte comando:
 
-```py
+```bash
 python3 main.py arquivo_de_entradas.txt
 ```
 Este comando iniciará o processo de resolução do problema de programação linear, utilizando as informações contidas no arquivo de entradas fornecido como argumento.
