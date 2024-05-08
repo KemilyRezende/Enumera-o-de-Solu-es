@@ -1,6 +1,6 @@
 # Enumerameração de Soluções
 
-O projeto compromete-se a enumerar soluções básicas, viáveis e inviáveis, de problemas de programação linear para problemas de minimização.
+O projeto compromete-se a enumerar soluções básicas, viáveis e inviáveis, de problemas de programação linear de minimização.
 
 ## Tecnologias
 
